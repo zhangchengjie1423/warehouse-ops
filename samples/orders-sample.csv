@@ -1,0 +1,2 @@
+﻿order_id,station,picker_id,created_at,promised_at,pick_started_at,pick_finished_at,packed_at,delivered_at,items,status,issue
+SAMPLE-001,样例站,SAMPLE-P01,2026-10-20T10:00:00+08:00,2026-10-20T10:40:00+08:00,2026-10-20T10:04:00+08:00,2026-10-20T10:10:00+08:00,2026-10-20T10:14:00+08:00,2026-10-20T10:32:00+08:00,12,delivered,none

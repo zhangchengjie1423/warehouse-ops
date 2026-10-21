@@ -1,0 +1,9 @@
+data/
+__pycache__/
+*.pyc
+*.log
+.env*
+.hallmark/
+test-results/
+*.db
+*.db-*
